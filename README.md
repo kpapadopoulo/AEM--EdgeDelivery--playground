@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--AEM--EdgeDelivery--playground--kpapadopoulo.hlx.page/
-- Live: https://main--AEM--EdgeDelivery--playground--kpapadopoulo.hlx.live/
+- Preview: https://main--aemedgedeliveryplayground--kpapadopoulo.hlx.page/
+- Live: https://main--aemedgedeliveryplayground--kpapadopoulo.hlx.live/
 
 ## Installation
 
